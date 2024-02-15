@@ -6,5 +6,6 @@ specifying message frame IDs in the Show Text command.
 
 To activate the custom window skin, in the "Plugin command" and 
 use the following command: showtext <WindowFrame: FrameName>.
+
 To use default window skin in the message, the plugin command
 should be showtext <WindowFrame: Classic>
